@@ -101,3 +101,4 @@ WHERE first_name LIKE '%r%'
 SELECT *
 FROM customers
 WHERE first_name LIKE '__r%'
+
