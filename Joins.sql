@@ -1,4 +1,4 @@
-USE MyDatabase
+USE MyDatabase 
 /* Basic SQL JOINS : key column is used to join
                : to combine data by columns
 */
@@ -199,6 +199,7 @@ SELECT
     o.OrderID,
     o.Sales
 FROM Sales.Orders o;
+
 
 
 
